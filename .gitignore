@@ -3,4 +3,5 @@ bin/
 obj/
 *.user
 *.suo
-
+node_modules/
+dist/
